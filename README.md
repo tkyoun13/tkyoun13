@@ -6,7 +6,9 @@
 - Yun tae geun
 - tgyun99@gmail.com
 <br/>
+
 ## 💻 Programming Languages
+
   <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></span>
