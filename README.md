@@ -11,6 +11,7 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></span>
+<span><img src = "https://img.shields.io/badge/java-blue?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <br/>
 <span><img src = "https://img.shields.io/badge/springboot-%236DB33F?style=flat&logo=springboot&logoColor=white"/></span>
