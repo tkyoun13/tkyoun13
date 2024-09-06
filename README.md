@@ -13,6 +13,9 @@
 <span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <br/>
+<span><img src = "https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></span>
+<span><img src = "https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/></span>
+<br/>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <br/>
